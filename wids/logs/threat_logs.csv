@@ -1,0 +1,42 @@
+timestamp,attack_type,severity,details
+2026-04-29 15:10:03,Deauthentication Attack,High,"MAC 41:5F:6F:B2:1A:3E sent excessive deauth frames (window ratio=1.00, count=1)"
+2026-04-29 15:10:03,Deauthentication Attack,High,"MAC 41:5F:6F:B2:1A:3E sent excessive deauth frames (window ratio=1.00, count=2)"
+2026-04-29 15:10:03,ML-Detected Attack (deauth_attack),High,RandomForest classified packet as 'deauth_attack' with confidence 80%
+2026-04-29 15:10:03,Deauthentication Attack,High,"MAC 41:5F:6F:B2:1A:3E sent excessive deauth frames (window ratio=1.00, count=3)"
+2026-04-29 15:10:03,ML-Detected Attack (deauth_attack),High,RandomForest classified packet as 'deauth_attack' with confidence 98%
+2026-04-29 15:10:03,Anomalous Traffic (ML),Medium,IsolationForest flagged this packet as an anomaly
+2026-04-29 15:10:03,Deauthentication Attack,High,"MAC 41:5F:6F:B2:1A:3E sent excessive deauth frames (window ratio=1.00, count=4)"
+2026-04-29 15:10:03,ML-Detected Attack (deauth_attack),High,RandomForest classified packet as 'deauth_attack' with confidence 100%
+2026-04-29 15:10:03,Deauthentication Attack,High,"MAC 41:5F:6F:B2:1A:3E sent excessive deauth frames (window ratio=1.00, count=5)"
+2026-04-29 15:10:03,ML-Detected Attack (deauth_attack),High,RandomForest classified packet as 'deauth_attack' with confidence 100%
+2026-04-29 15:10:03,Deauthentication Attack,High,"MAC 41:5F:6F:B2:1A:3E sent excessive deauth frames (window ratio=1.00, count=6)"
+2026-04-29 15:10:03,ML-Detected Attack (deauth_attack),High,RandomForest classified packet as 'deauth_attack' with confidence 100%
+2026-04-29 15:10:03,Deauthentication Attack,High,"MAC 41:5F:6F:B2:1A:3E sent excessive deauth frames (window ratio=1.00, count=7)"
+2026-04-29 15:10:03,ML-Detected Attack (deauth_attack),High,RandomForest classified packet as 'deauth_attack' with confidence 100%
+2026-04-29 15:10:03,Deauthentication Attack,High,"MAC 41:5F:6F:B2:1A:3E sent excessive deauth frames (window ratio=1.00, count=8)"
+2026-04-29 15:10:03,ML-Detected Attack (deauth_attack),High,RandomForest classified packet as 'deauth_attack' with confidence 100%
+2026-04-29 15:10:03,Deauthentication Attack,High,"MAC 41:5F:6F:B2:1A:3E sent excessive deauth frames (window ratio=1.00, count=9)"
+2026-04-29 15:10:03,ML-Detected Attack (deauth_attack),High,RandomForest classified packet as 'deauth_attack' with confidence 100%
+2026-04-29 15:10:03,Anomalous Traffic (ML),Medium,IsolationForest flagged this packet as an anomaly
+2026-04-29 15:10:03,Deauthentication Attack,High,"MAC 41:5F:6F:B2:1A:3E sent excessive deauth frames (window ratio=1.00, count=10)"
+2026-04-29 15:10:03,ML-Detected Attack (deauth_attack),High,RandomForest classified packet as 'deauth_attack' with confidence 100%
+2026-04-29 15:10:03,Deauthentication Attack,High,"MAC 41:5F:6F:B2:1A:3E sent excessive deauth frames (window ratio=1.00, count=11)"
+2026-04-29 15:10:03,ML-Detected Attack (deauth_attack),High,RandomForest classified packet as 'deauth_attack' with confidence 100%
+2026-04-29 15:10:03,Deauthentication Attack,High,"MAC 41:5F:6F:B2:1A:3E sent excessive deauth frames (window ratio=1.00, count=12)"
+2026-04-29 15:10:03,ML-Detected Attack (deauth_attack),High,RandomForest classified packet as 'deauth_attack' with confidence 100%
+2026-04-29 15:10:03,Deauthentication Attack,High,"MAC 41:5F:6F:B2:1A:3E sent excessive deauth frames (window ratio=1.00, count=13)"
+2026-04-29 15:10:03,ML-Detected Attack (deauth_attack),High,RandomForest classified packet as 'deauth_attack' with confidence 100%
+2026-04-29 15:10:03,Deauthentication Attack,High,"MAC 41:5F:6F:B2:1A:3E sent excessive deauth frames (window ratio=1.00, count=14)"
+2026-04-29 15:10:03,ML-Detected Attack (deauth_attack),High,RandomForest classified packet as 'deauth_attack' with confidence 100%
+2026-04-29 15:10:03,Deauthentication Attack,High,"MAC 41:5F:6F:B2:1A:3E sent excessive deauth frames (window ratio=1.00, count=15)"
+2026-04-29 15:10:03,ML-Detected Attack (deauth_attack),High,RandomForest classified packet as 'deauth_attack' with confidence 94%
+2026-04-29 15:10:03,Deauthentication Attack,High,"MAC 41:5F:6F:B2:1A:3E sent excessive deauth frames (window ratio=1.00, count=16)"
+2026-04-29 15:10:03,ML-Detected Attack (deauth_attack),High,RandomForest classified packet as 'deauth_attack' with confidence 100%
+2026-04-29 15:10:03,Deauthentication Attack,High,"MAC 41:5F:6F:B2:1A:3E sent excessive deauth frames (window ratio=1.00, count=17)"
+2026-04-29 15:10:03,ML-Detected Attack (deauth_attack),High,RandomForest classified packet as 'deauth_attack' with confidence 100%
+2026-04-29 15:10:03,Deauthentication Attack,High,"MAC 41:5F:6F:B2:1A:3E sent excessive deauth frames (window ratio=1.00, count=18)"
+2026-04-29 15:10:03,ML-Detected Attack (deauth_attack),High,RandomForest classified packet as 'deauth_attack' with confidence 96%
+2026-04-29 15:10:03,Deauthentication Attack,High,"MAC 41:5F:6F:B2:1A:3E sent excessive deauth frames (window ratio=1.00, count=19)"
+2026-04-29 15:10:03,ML-Detected Attack (deauth_attack),High,RandomForest classified packet as 'deauth_attack' with confidence 98%
+2026-04-29 15:10:03,Deauthentication Attack,High,"MAC 41:5F:6F:B2:1A:3E sent excessive deauth frames (window ratio=1.00, count=20)"
+2026-04-29 15:10:03,ML-Detected Attack (deauth_attack),High,RandomForest classified packet as 'deauth_attack' with confidence 94%
